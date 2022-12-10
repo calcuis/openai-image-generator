@@ -105,4 +105,6 @@ const App: React.FC = () => {
 export default App;
 ```
 
-This is just an example of how you can create a web app that uses React, Typescript, TailwindCSS, and the OpenAI package to generate AI images using the DALL·E 2 engine. There are many other ways to implement this functionality and improve the user experience, such as adding loading indicators, error handling, and more. And you probably need an api key created from OpenAi and replace the `<your-api-key-here>` above to make it works.
+This is just an example of how you can create a web app that can be generated AI images using the DALL·E 2 engine. There are many other ways to implement this functionality and improve the user experience, such as adding loading indicators, error handling, and more.
+
+At the very end, you probably need an api key created from OpenAi and replace the `<your-api-key-here>` above to make it works.
