@@ -1,5 +1,5 @@
 # openai-image-generator
-a web app that uses React, Typescript, TailwindCSS, and the OpenAI package to generate AI images using the DALL·E 2 engine
+a web app that uses React, Typescript, TailwindCSS, and the OpenAI package to generate AI images using the DALL·E 2 engine.
 
 First, we would need to create a new React project and install the necessary dependencies, including the OpenAI package:
 ```
